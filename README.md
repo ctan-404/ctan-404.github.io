@@ -1,2 +1,2 @@
-# Coursera-test
-Coursera test repository
+#blog website attempt
+wish me luck
